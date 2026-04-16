@@ -12,7 +12,7 @@ Modelar los procesos principales de gestión bibliotecaria, incluyendo búsqueda
 
 ---
 
-![](https://github.com/AdrianCa17-G/Caso_UML/blob/main/uml_biblioteca_use_case.png)
+![](https://github.com/AdrianCa17-G/Caso_UML/blob/main/uml_biblioteca.png)
 
 ---
 
