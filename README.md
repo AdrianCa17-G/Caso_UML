@@ -1,7 +1,5 @@
 #  Sistema de Biblioteca – Documentación UML
 
-![](https://github.com/AdrianCa17-G/Caso_UML/blob/main/uml_biblioteca_use_case.png)
-
 ##  Descripción del sistema
 
 El presente proyecto modela un sistema de biblioteca mediante un diagrama de casos de uso UML, con el fin de representar las interacciones entre los actores y las funcionalidades principales del sistema. Este diseño permite comprender el comportamiento general del sistema y sus procesos clave.
@@ -11,6 +9,10 @@ El presente proyecto modela un sistema de biblioteca mediante un diagrama de cas
 ##  Objetivo
 
 Modelar los procesos principales de gestión bibliotecaria, incluyendo búsqueda, préstamo, devolución, renovación de libros y pago de multas, asegurando una correcta interacción entre los actores involucrados.
+
+---
+
+![](https://github.com/AdrianCa17-G/Caso_UML/blob/main/uml_biblioteca_use_case.png)
 
 ---
 
@@ -35,11 +37,11 @@ Modelar los procesos principales de gestión bibliotecaria, incluyendo búsqueda
 
 ##  Relaciones entre casos de uso
 
-###  <<include>>
+###  <include>
 
 El caso de uso **Solicitar préstamo** incluye obligatoriamente **Consultar disponibilidad**, ya que es necesario verificar la existencia del libro antes de completar el proceso.
 
-###  <<extend>>
+###  <extend>
 
 El caso de uso **Pagar multa** extiende a **Devolver libro**, debido a que solo se ejecuta en situaciones específicas donde existe retraso en la devolución.
 
