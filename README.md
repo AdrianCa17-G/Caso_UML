@@ -1,5 +1,7 @@
 #  Sistema de Biblioteca – Documentación UML
 
+![](https://github.com/AdrianCa17-G/Caso_UML/blob/main/uml_biblioteca_use_case.png)
+
 ##  Descripción del sistema
 
 El presente proyecto modela un sistema de biblioteca mediante un diagrama de casos de uso UML, con el fin de representar las interacciones entre los actores y las funcionalidades principales del sistema. Este diseño permite comprender el comportamiento general del sistema y sus procesos clave.
